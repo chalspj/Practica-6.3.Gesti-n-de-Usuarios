@@ -20,3 +20,9 @@ Sigue estos pasos para configurar y ejecutar el proyecto en tu máquina local:
 1. **Clona el repositorio**:
    ```bash
    git clone https://github.com/chalspj/api-rest-users.git
+
+## Registro de peticiones HTTP
+Se ha añadido un middleware en `app.js` que registra en la consola todas las peticiones HTTP recibidas por el servidor. Esto facilita la depuración y el seguimiento de las solicitudes.
+
+
+
