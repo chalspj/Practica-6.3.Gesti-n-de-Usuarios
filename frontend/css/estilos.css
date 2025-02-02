@@ -3,7 +3,8 @@ body {
     margin: 0;
     padding: 0;
     line-height: 1.6;
-    background-image:url(../img/fondo-usuarios.jpg);
+    /*DESA 225 CAMBIO DE RUTA DE LA IMAGEN*/
+    background-image:url(../img/background/fondo-usuarios.jpg);
   }
 
   header {
